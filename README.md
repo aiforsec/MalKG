@@ -6,4 +6,4 @@ These files are added here. So, training can be skipped.
 
 For testing run the test_malware.py file
 
-# triples are stored in (head, tail, relation) order
+Triples are stored in (head, tail, relation) order
