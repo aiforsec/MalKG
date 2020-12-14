@@ -1,0 +1,259 @@
+Adobe_Systems	{'adobe systems': 1}
+Advanced_Persistent_Threat	{'advanced persistent threat': 3}
+Amazon_EC2	{'amazon ec2': 1}
+Amazons	{'amazons': 1}
+Antivirus	{'antivirus': 1}
+Atlanta	{'atlanta': 1}
+Aurora	{'aurora': 136}
+Beijing	{'beijing': 1}
+Botnet	{'botnet': 57}
+Browser	{'browser': 1}
+CN	{'cn': 1}
+Chicago	{'chicago': 1}
+China	{'china': 7}
+Chinas	{'chinas': 2}
+Chongqing	{'chongqing': 2}
+Comcast	{'comcast': 11}
+Command_Structure	{'command structure': 33}
+Communication	{'communication': 2}
+Conficker	{'conficker': 1}
+Criminal_Operators	{'criminal operators': 1}
+DLL	{'dll': 6}
+Dagon	{'dagon': 1}
+Data	{'data': 2}
+David	{'david': 1}
+Dow_Chemical	{'dow chemical': 1}
+EXE	{'exe': 4}
+Electronic	{'electronic': 1}
+Engineering	{'engineering': 1}
+Evasion	{'evasion': 1}
+Evolution	{'evolution': 1}
+Family	{'family': 11}
+Germany	{'germany': 2}
+Google	{'google': 71}
+HangZhou	{'hangzhou': 5}
+History	{'history': 1}
+IP_address	{'ip address': 3, 'ip addresses': 3}
+IRC	{'irc': 1}
+ISP	{'isp': 2}
+Infection	{'infection': 2}
+Information	{'information': 4}
+Internet	{'internet': 1}
+Internet_Explorer	{'internet explorer': 1}
+Internet_Service_Provider	{'internet service provider': 1}
+Internet_explorer	{'internet explorer': 1}
+Jiangsu	{'jiangsu': 1}
+Juniper_Networks	{'juniper networks': 1}
+Knowledge	{'knowledge': 1}
+MX	{'mx': 26}
+Major	{'major': 1}
+Malware	{'malware': 32}
+Menu_Bar	{'menu bar': 2}
+Microsoft	{'microsoft': 19}
+Microsoft_Word	{'microsoft word': 1}
+Mountain_View	{'mountain view': 19}
+Network_Analysis	{'network analysis': 2}
+Northrop_Grumman	{'northrop grumman': 1}
+Pop	{'pop': 1}
+Rackspace	{'rackspace': 1}
+Rand_Corporation	{'rand corporation': 1}
+Report	{'report': 2}
+Research	{'research': 1}
+SMTP	{'smtp': 1}
+SOA	{'soa': 1}
+San_Jose	{'san jose': 10}
+Scareware	{'scareware': 9}
+Service_Providers	{'service providers': 1}
+Software	{'software': 6}
+Symantec	{'symantec': 2}
+Taiwan	{'taiwan': 3}
+Toolbar	{'toolbar': 2}
+Trojan	{'trojan': 16}
+USA	{'usa': 1}
+UTC	{'utc': 1}
+United_Kingdom	{'united kingdom': 2}
+United_States	{'united states': 4}
+Vector	{'vector': 2}
+Vice_President	{'vice president': 1}
+Washington	{'washington': 1}
+Washington_Post	{'washington post': 1}
+Windows	{'windows': 8}
+Windows_Explorer	{'windows explorer': 6}
+Yahoo	{'yahoo': 1}
+Zero_Day	{'zero day': 9}
+a_level	{'a level': 1}
+amateur	{'amateur': 4}
+anti	{'anti': 1}
+antivirus	{'antivirus': 3}
+area	{'area': 3}
+ath	{'ath': 2}
+aurora	{'aurora': 1}
+author	{'author': 1}
+average	{'average': 1}
+bank	{'banks': 1}
+basic	{'basic': 2}
+batch_file	{'batch file': 4}
+binary	{'binaries': 1}
+blue_zone	{'blue zone': 1}
+botnet	{'botnet': 180}
+business	{'business': 5}
+china	{'china': 1}
+chinese	{'chinese': 3}
+cloud	{'cloud': 1}
+cn	{'cn': 3}
+collocation	{'collocation': 2}
+colo	{'colo': 1}
+communication	{'communication': 2}
+company	{'company': 1}
+compiler	{'compiler': 1}
+computer	{'computers': 6}
+conficker	{'conficker': 1}
+construction	{'construction': 8}
+copyright	{'copyright': 1}
+country	{'country': 3}
+country_code	{'country code': 2}
+criminal_operator	{'criminal operators': 31}
+cyber_attack	{'cyber attack': 1}
+cybercrime	{'cybercrime': 2}
+data	{'data': 4}
+datum	{'data': 17}
+degree	{'degree': 1}
+delegation	{'delegation': 3}
+design	{'design': 1}
+digital	{'digital': 2}
+diurnal	{'diurnal': 2}
+docx	{'docx': 1}
+domain_name	{'domain names': 17}
+dynamic_dns	{'dynamic dns': 8}
+e	{'e': 10}
+ecosystem	{'ecosystem': 5}
+editing	{'editing': 1}
+electronic	{'electronic': 5}
+email	{'email': 12}
+engine	{'engine': 1}
+engineer	{'engineer': 2}
+espionage	{'espionage': 1}
+eu	{'eu': 1}
+evasion	{'evasion': 6}
+eve	{'eve': 1}
+evolution	{'evolution': 10}
+evolutionary	{'evolutionary': 3}
+exe	{'exe': 9}
+executable	{'executable': 1}
+family	{'family': 17}
+fiduciary	{'fiduciary': 1}
+flux	{'flux': 2}
+forensic	{'forensic': 3}
+free	{'free': 1}
+frequency	{'frequency': 1}
+function	{'function': 1}
+gestation	{'gestation': 1}
+google	{'google': 3}
+government	{'government': 1}
+green	{'green': 2}
+hard_drive	{'hard drive': 1}
+heart	{'heart': 3}
+high	{'high': 3}
+html	{'html': 1}
+human	{'human': 1}
+human_right	{'human rights': 1}
+industrial	{'industrial': 1}
+industry	{'industry': 1}
+infection	{'infection': 15}
+information	{'information': 13}
+infrastructure	{'infrastructure': 4}
+infringement	{'infringement': 1}
+intellectual_property	{'intellectual property': 1}
+intelligence	{'intelligence': 1}
+intension	{'intension': 1}
+internet	{'internet': 6}
+internet_Explorer_6	{'internet explorer 6': 2}
+internet_explorer_6	{'internet explorer 6': 1}
+internet_traffic	{'internet traffic': 1}
+iso_3166	{'iso 3166': 1}
+isp	{'isps': 2, 'isp': 1}
+law	{'law': 1}
+lifetime	{'lifetime': 1}
+light	{'light': 3}
+logo	{'logo': 2, 'logos': 1}
+long	{'long': 1}
+loopback	{'loopback': 1}
+low	{'lower': 1}
+mafia	{'mafia': 1}
+mail	{'mail': 4}
+mainland_China	{'mainland china': 3}
+major	{'major': 8}
+malware	{'malware': 220}
+management	{'management': 7}
+medium	{'media': 3}
+memory	{'memory': 5}
+military	{'military': 1}
+mining	{'mining': 1}
+money	{'money': 2}
+mx	{'mx': 1}
+nature	{'nature': 3}
+net_5	{'net 5': 1}
+network_analysis	{'network analysis': 2}
+newbie	{'newbie': 1}
+news	{'news': 3}
+obfuscation	{'obfuscation': 2}
+observable	{'observable': 2}
+order	{'order': 7}
+organization	{'organization': 5}
+party	{'party': 1}
+pdf	{'pdf': 4}
+period	{'period': 8}
+political	{'political': 1}
+pop	{'pop': 1}
+port	{'port': 1}
+private	{'private': 1}
+product	{'products': 1}
+production	{'production': 3}
+professional	{'professional': 14}
+property	{'property': 1}
+public	{'public': 15}
+qr	{'qr': 1}
+rallying	{'rallying': 1}
+reading	{'reading': 1}
+region	{'region': 2}
+regulatory_compliance	{'regulatory compliance': 1}
+remote_control	{'remote control': 5}
+report	{'report': 9}
+research	{'research': 1}
+result	{'results': 2}
+russian	{'russian': 1}
+school	{'school': 5}
+security	{'security': 12}
+service_provider	{'service providers': 2}
+short	{'short': 2}
+silent	{'silent': 1}
+single	{'single': 3}
+software	{'software': 5}
+spaghetti_code	{'spaghetti code': 1}
+spectrum	{'spectrum': 1}
+speculation	{'speculation': 2}
+spyware	{'spyware': 2}
+state	{'state': 3}
+steal	{'stolen': 2}
+surveillance	{'surveillance': 1}
+symantec	{'symantec': 1}
+target	{'target': 2}
+technology	{'technology': 2}
+theft	{'theft': 1}
+tld	{'tld': 1}
+topology	{'topology': 3, 'topologies': 3}
+trademark	{'trademarks': 1}
+trail	{'trail': 1}
+tree	{'tree': 2}
+university	{'university': 2}
+upper	{'upper': 1}
+usb	{'usb': 1}
+variety	{'variety': 1}
+vector	{'vector': 5}
+vernacular	{'vernacular': 1}
+video	{'video': 1}
+virus	{'virus': 1, 'viruses': 1}
+watermark	{'watermark': 4}
+weak_link	{'weakest link': 1}
+window	{'windows': 1}
+yahoo	{'yahoo': 2}
