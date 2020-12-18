@@ -1,0 +1,32 @@
+0.9550000000	mountain view
+0.8033333333	domain names
+0.6923333333	aurora botnet page
+0.5626666667	zero day
+0.5456666667	command structure
+0.5333333333	criminal operators
+0.4786666667	associated with
+0.4736666667	of the aurora botnet
+0.4246666667	operators behind
+0.4093333333	command structure of
+0.3950000000	operation aurora
+0.3876666667	have been
+0.3813333333	based upon
+0.3396666667	the same
+0.3366666667	cnc domains
+0.3236666667	malware families
+0.3016666667	botnet operators
+0.2996666667	cnc domain
+0.2956666667	august 2009
+0.2900000000	has been
+0.2800000000	aurora botnet
+0.2436666667	structure of
+0.2123333333	2009 12
+0.1783333333	some of the
+0.1713333333	2009 family
+0.1040000000	used by
+0.0840000000	analysis of
+0.0693333333	it is
+0.0633333333	appear to
+0.0463333333	to be
+0.0463333333	use of
+0.0403333333	some of
